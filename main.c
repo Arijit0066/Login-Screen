@@ -68,7 +68,7 @@ int menu()
 {
     int c;
     system("cls");
-    // printf("\t\t\t  Developed By Arijit.\n");
+    printf("\t\t\t  Developed By Arijit.\n");
     printf("\n");
     printf("***********MAIN MENU***********\n");
     printf("1. Signup\n");
